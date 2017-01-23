@@ -1,0 +1,35 @@
+{
+  "name": "slack-rps",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors FTW!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7.x"
+  },
+  "keywords": [
+    "Slackbot",
+    "slack",
+    "rps",
+    "rock",
+    "paper",
+    "scissors"
+  ],
+  "author": "Sandro Pasquali <spasquali@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "slackbots": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandro-pasquali/slack-rps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandro-pasquali/slack-rps/issues"
+  },
+  "homepage": "https://github.com/sandro-pasquali/slack-rps#readme"
+}
